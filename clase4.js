@@ -19,7 +19,7 @@ console.log(promedio(6, 4, sumar)); // esto consolea 5, o sea, 6 + 4, que es mi 
 
 
 // HOISTING
-        //Js lee todo el código y a las funciones las va a "guarda" arriba de todo. Luego, al resto de las cosas las lee de arriba para abajo. 
+        //Js lee todo el código y a las funciones las va a "guardar" arriba de todo. Luego, al resto de las cosas las lee de arriba para abajo. 
 
 console.log(numerito); // esto no consolea nada, error
 let numerito = 5;
