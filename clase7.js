@@ -158,3 +158,13 @@ console.log(arrayJoineado); // lo separa con guiones ["Hola-mi-nombre-es-Sol."]
 const arrayPiola = [1, 2, 3, 4, 5, 2, 7];
 
 arrayPiola.lastIndexOf(2); // esto devuelve 5, porque el ultimo "2" tiene index 5
+
+//De los que vimos hasta ahora los más usados
+length
+every
+filter (se recontra usa)
+find (se recontra usa)
+findIndex
+some
+forEach
+join
