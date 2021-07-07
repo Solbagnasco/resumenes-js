@@ -86,7 +86,7 @@ console.log(indexOfNumeros); // esto imprime 2, el indice que tiene el 3 en el a
 
 //findIndex
 //nos devuelve el index (indice) del primer elemento que encuentre que cumpla con la condición
-//espera una funcion como parametro, la de arriba no
+//espera una funcion como parametro (la de arriba no)
 
 const arrayDeObjetos = [
     { id: 1, nombre: "Pepito" },
