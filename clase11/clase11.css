@@ -1,0 +1,15 @@
+.boton {
+    padding: 10px;
+    border: none;
+    min-width: 150px;
+    border-radius: 20px;
+    cursor: not-allowed;
+    background-color: grey;
+    transition: all;
+}
+
+.activado {
+    background-color: salmon;
+    color: black;
+    cursor: pointer;
+}
